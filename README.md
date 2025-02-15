@@ -14,10 +14,10 @@ Yes, even from the classic MS-DOS black-and-white console, you can handle cuttin
 **And the API content in my app? Fetching well-known JSONPlaceholder users data and the Czech National Bank's current currency exchange rate list. HTTPS Sources here:**
 
 
-JsonPlaceholder Users data: 
+1. JsonPlaceholder Users data: 
 https://jsonplaceholder.typicode.com/users
 ###
-The central bank of the Czech Republic exchange rate fixing:
+2. The central bank of the Czech Republic exchange rate fixing:
 https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt
 ###
 The executable file of the application, "httpClient_api.exe", is attached, of course.
