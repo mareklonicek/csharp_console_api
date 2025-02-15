@@ -25,6 +25,7 @@ Happy coding for successful trading!
 The executable file of the application, **"httpClient_api.exe"**, is attached, of course. (Click the green "Code" button, then select "Download ZIP.")
 
 ###
+
 ![Example GIF](animation.gif)
 
 
