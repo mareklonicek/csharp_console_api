@@ -16,5 +16,7 @@ Yes, even from the classic MS-DOS black-and-white console, you can handle cuttin
 The executable file of the application, "httpClient_api.exe", is attached, of course.
  ###
 Please, click the green "Code" button, then select "Download ZIP."
+###
+![Example GIF](animation.gif)
 
 
