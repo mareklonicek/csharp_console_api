@@ -7,6 +7,7 @@ Earth, USA, Houston,  Response: "Roger that, Apollo 11. Your HTTP status is 200 
 ###
 Well, it's just my little .NET C# CLI API app – for testing purposes, of course.
 Yes, even from the classic MS-DOS black-and-white console, you can handle cutting-edge modern web HTTP protocol data.
+###
 And the API content in my app? Fetching well-known JSONPlaceholder users data and the Czech National Bank's current currency exchange rate list.
 ###
 The executable file of the application, "httpClient_api.exe", is attached, of course.
