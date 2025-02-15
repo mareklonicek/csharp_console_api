@@ -12,9 +12,12 @@ Well, it's just my little .NET C# CLI API app – for testing purposes, of cours
 Yes, even from the classic MS-DOS black-and-white console, you can handle cutting-edge modern web HTTP protocol data.
 ###
 **And the API content in my app? Fetching well-known JSONPlaceholder users data and the Czech National Bank's current currency exchange rate list.**
+###
 HTTPS Source here:
+###
 JsonPlaceholder Users data: 
 https://jsonplaceholder.typicode.com/users
+###
 The central bank of the Czech Republik exchange rate fixing:
 https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt
 ###
