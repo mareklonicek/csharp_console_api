@@ -2,7 +2,7 @@
 ###
 ...
 Somewhere in space, a sudden Apollo 11 Request:
- _"Houston, we have an... an ENDPOINT!"_ 
+ _"Houston, we have an ... an ENDPOINT!"_ 
 ###
 Earth, USA, Houston,  Response: 
 _"Roger that, Apollo 11. Your HTTP status is 200 OK. Sending back the requested JSON Moon data!"_
@@ -15,6 +15,6 @@ Yes, even from the classic MS-DOS black-and-white console, you can handle cuttin
 ###
 The executable file of the application, "httpClient_api.exe", is attached, of course.
  ###
-Please, click the green "Code" button, then select "Download ZIP."
+Please, click the <span style="color: green;">green</span> "Code" button, then select "Download ZIP."
 
 
