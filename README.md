@@ -2,7 +2,6 @@
 ###
 ...
 Somewhere in space, a sudden Apollo 11 Request:
-###
  _"Houston, we have an... an ENDPOINT!"_ 
 ###
 Earth, USA, Houston,  Response: 
