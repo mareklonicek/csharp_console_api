@@ -23,8 +23,8 @@ https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kur
 Happy coding for successful trading!
 ###
 The executable file of the application, **"httpClient_api.exe"**, is attached, of course.
- ###
-Please, click the green "Code" button, then select "Download ZIP."
+
+(Please, click the green "Code" button, then select "Download ZIP.")
 
 ###
 ![Example GIF](animation.gif)
