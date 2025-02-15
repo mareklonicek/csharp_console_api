@@ -17,6 +17,7 @@ The executable file of the application, "httpClient_api.exe", is attached, of co
  ###
 Please, click the green "Code" button, then select "Download ZIP."
 ###
+Plus: I'm waiting for the better, longer animation, yes - waiting for my little Intel Celeron N4000 to proccessing the video rendering CPU-heavy task...
 ![Example GIF](animation.gif)
 
 
