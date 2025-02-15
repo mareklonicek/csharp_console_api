@@ -5,4 +5,6 @@ Earth, USA, Houston,  Response: "Roger that, Apollo 11. Your HTTP status is 200 
 ...
 Well, it's just my little .NET C# CLI API app – for testing purposes, of course.
 Yes, even from the classic MS-DOS black-and-white console, you can handle cutting-edge modern web HTTP protocol data.
-The executable file of the application, 'httpClient_api.exe', is attached, of course.
+The executable file of the application, "httpClient_api.exe", is attached, of course. Please, click the green "Code" button, then select "Download ZIP."
+
+![Download ZIP](https://img.shields.io/badge/Code-Download%20ZIP-gray)
