@@ -14,7 +14,7 @@ Yes, even from the classic MS-DOS black-and-white console, you can handle cuttin
 **And the API content in my app? Fetching well-known JSONPlaceholder users data and the Czech National Bank's current currency exchange rate list. HTTPS Sources here:**
 
 
-1. JsonPlaceholder Users data: 
+1. JsonPlaceholder Users data:  
 https://jsonplaceholder.typicode.com/users
 ###
 2. The central bank of the Czech Republic exchange rate fixing:
