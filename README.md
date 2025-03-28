@@ -18,7 +18,7 @@ Yes, even from the classic MS-DOS black-and-white console, you can handle cuttin
 https://jsonplaceholder.typicode.com/users
 ###
 2. The central bank of the Czech Republic exchange rate fixing:
-https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt
+https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt 
 ###
 Happy coding for successful trading!
 ###
