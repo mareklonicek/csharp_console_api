@@ -20,7 +20,7 @@ https://jsonplaceholder.typicode.com/users
 2. The central bank of the Czech Republic exchange rate fixing:
 https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt 
 ###
-Happy coding for successful trading!
+Happy coding for successful trading! 
 ###
 The executable file of the application, **"httpClient_api.exe"**, is attached, of course. (Click the green "Code" button, then select "Download ZIP.")
 
