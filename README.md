@@ -27,5 +27,5 @@ The executable file of the application, **"httpClient_api.exe"**, is attached, o
 ###
 
 ![Example GIF](animation.gif)
-
+ 
 
